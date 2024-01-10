@@ -30,7 +30,7 @@ CreateThread(function()
 end)
 
 local function check(ped)
-    return DoesEntityExist(ped) and not GetPlayerInvincible(cache.playerId)
+    return DoesEntityExist(ped) and not GetPlayerInvincible(ped)
 end
 
 lib.callback.register("fanca_antitank:damage", function(ped, damage)
