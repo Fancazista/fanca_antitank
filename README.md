@@ -17,7 +17,7 @@
   <br/>
   <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>report a bug</strong></a>,
   <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>request a feature</strong></a>,
-  <a href="https://forum.cfx.re/"><strong>check the FiveM post | NOT OUT YET</strong></a>
+  <a href="https://forum.cfx.re/t/free-fanca-antitank-anti-tank-system-for-any-type-of-server/"><strong>check the FiveM post</strong></a>
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ Thanks to this resource you will synchronize kills and damage between all player
 The [OX Lib](https://github.com/overextended/ox_lib/releases/latest) resource is needed for the script to work.
 
 ## Install
-1. Download the latest released version of the resource from [here](https://github.com/Fancazista/fanca_safezone/releases/latest).
+1. Download the latest released version of the resource from [here](https://github.com/Fancazista/fanca_antitank/releases/latest).
 2. Extract the contents of the archive (the `fanca_antitank` folder) into your `resources` folder.
 3. Add `start fanca_antitank` in your `server.cfg`.
 
@@ -60,4 +60,4 @@ The [OX Lib](https://github.com/overextended/ox_lib/releases/latest) resource is
 </div>
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/Fancazista/fanca_safezone/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Fancazista/fanca_antitank/blob/main/LICENSE) for more information.
