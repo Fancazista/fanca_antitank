@@ -1,10 +1,9 @@
 <div align="center">
-  <img alt="wallpaper" src="https://forum.cfx.re/uploads/default/original/4X/d/0/f/d0fd26b43e13071ecee4de853957d288305ca629.jpeg" width="450" height="280">
+  <img alt="wallpaper" src="https://forum-cfx-re.akamaized.net/original/4X/d/0/f/d0fd26b43e13071ecee4de853957d288305ca629.jpeg" width="450" height="280">
   
-  <h3 align="center">FANCA Anti tank system</h3>
-  Make sure players on your server don't die due to an opponent's tanking.
+  <h3 align="center">FANCA Anti-Tank & Desync System</h3>
+  <p>Make sure players on your server don't die due to an opponent's tanking.</p>
 
-  <br/>
   <br/>
   
   ![](https://img.shields.io/github/license/Fancazista/fanca_antitank?logo=github&color=blue)
@@ -13,13 +12,21 @@
   ![](https://img.shields.io/github/contributors/Fancazista/fanca_antitank?logo=github&color=blue)
   ![](https://img.shields.io/github/last-commit/Fancazista/fanca_antitank?logo=github&color=blue)
   ![](https://img.shields.io/github/issues/Fancazista/fanca_antitank?logo=github&color=blue)
+  
   <br/>
-  <a target="_blank" href="https://discord.gg/2JTRHrMs4m"><img src="https://discordapp.com/api/guilds/810056325623054336/widget.png?style=banner2" alt="Discord banner"/></a>
+  
+  <div>
+    <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>report a bug</strong></a>,
+    <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>request a feature</strong></a>,
+    <a href="https://forum.cfx.re/t/free-fanca-antitank-anti-tank-system-for-any-type-of-server/"><strong>check the FiveM post</strong></a>
+  </div>
+  
   <br/>
-  <br/>
-  <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>report a bug</strong></a>,
-  <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>request a feature</strong></a>,
-  <a href="https://forum.cfx.re/t/free-fanca-antitank-anti-tank-system-for-any-type-of-server/"><strong>check the FiveM post</strong></a>
+
+  <h3 style="color:red">⚠️ This script is deprecated (doesn't work anymore). Join the <a href="https://discord.gg/2JTRHrMs4m" style="color:inherit; text-decoration:underline;"><strong>Discord Server</strong></a> and open a ticket to get the working version! ⚠️</h3>
+  <a target="_blank" href="https://discord.gg/2JTRHrMs4m">
+    <img src="https://discordapp.com/api/guilds/810056325623054336/widget.png?style=banner2" alt="Discord banner"/>
+  </a>
 </div>
 
 <br/>
