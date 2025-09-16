@@ -1,4 +1,15 @@
+# ⚠️ **Important Update** ⚠️
+This script is no longer maintained.
+A **fully working and updated** version is now available at the following link:
+
+👉 [Anti-Tank & Anti-Desync System | Enhance the PvP experience](https://forum.cfx.re/t/anti-tank-anti-desync-system-enhance-the-pvp-experience/5353658?u=fancazista)
+
+We strongly recommend switching to this new script to get the best performance and stability. 🚀
+
+--- 
+
 <div align="center">
+  
   <img alt="wallpaper" src="https://forum-cfx-re.akamaized.net/original/4X/d/0/f/d0fd26b43e13071ecee4de853957d288305ca629.jpeg" width="450" height="280">
   
   <h3 align="center">FANCA Anti-Tank & Desync System</h3>
@@ -13,8 +24,6 @@
   ![](https://img.shields.io/github/last-commit/Fancazista/fanca_antitank?logo=github&color=blue)
   ![](https://img.shields.io/github/issues/Fancazista/fanca_antitank?logo=github&color=blue)
   
-  <br/>
-  
   <div>
     <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>report a bug</strong></a>,
     <a href="https://github.com/Fancazista/fanca_antitank/issues"><strong>request a feature</strong></a>,
@@ -23,7 +32,6 @@
   
   <br/>
 
-  <h3 style="color:red">⚠️ This script is deprecated (doesn't work anymore). Join the <a href="https://discord.gg/2JTRHrMs4m" style="color:inherit; text-decoration:underline;"><strong>Discord Server</strong></a> and open a ticket to get the working version! ⚠️</h3>
   <a target="_blank" href="https://discord.gg/2JTRHrMs4m">
     <img src="https://discordapp.com/api/guilds/810056325623054336/widget.png?style=banner2" alt="Discord banner"/>
   </a>
